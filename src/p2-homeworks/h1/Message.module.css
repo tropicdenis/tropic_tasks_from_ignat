@@ -1,0 +1,54 @@
+.message {
+    width: 400px;
+    height: 90px;
+    background-color: yellowgreen;
+    padding: 20px;
+    font-size: larger;
+
+}
+
+.ava {
+    height: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+
+}
+
+.name {
+    color: blueviolet;
+
+}
+.window {
+    margin: 0px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px 10px 10px 0px;
+    height: 80px;
+    width: 290px;
+    position: relative;
+    left: 90px;
+    bottom: 110px;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 15px 15px 15px; /* размер и форма */
+    border-color: transparent black black transparent;  /* red — цвет */
+    position: relative;
+    left: 60px;
+    bottom: 10px;
+
+}
+
+.mess {
+    color: white;
+}
+
+.time {
+    position: relative; left: 200px; bottom: 20px;
+    color: darkolivegreen;
+    text-align: left;
+}
